@@ -1,2 +1,25 @@
-
 /* Your CSS Code here. */
+#nt4{
+	background-color: black;
+	color: White;
+}
+
+.t1{
+	width: 50%
+}
+
+.td1{
+	padding-left: 20%;
+}
+
+.td2{
+	padding-left: 40%;
+}
+
+.td3{
+	padding-left: 10%;
+}
+
+.td4{
+	padding-left: 45%;
+}
